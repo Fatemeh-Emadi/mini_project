@@ -1,0 +1,3 @@
+RewriteEngine On
+RewriteBase /mini_project
+RewriteRule ^(.+)$ index.php [QSA,L]
