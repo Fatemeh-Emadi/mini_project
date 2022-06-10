@@ -15,3 +15,13 @@ medical service list
 
 ![screencapture-localhost-mini-project-medical-service-2022-06-10-16_14_01](https://user-images.githubusercontent.com/79381313/173057773-afadf89f-97a7-4d94-877e-bbc7b648d2d4.png)
 
+patient panel
+
+![screencapture-localhost-mini-project-patient-panel-2022-06-10-16_16_51](https://user-images.githubusercontent.com/79381313/173058196-6c29ce6f-b57e-41a3-a59f-dc11de547c9e.png)
+
+doctor panel
+
+![screencapture-localhost-mini-project-doctor-panel-2022-06-10-16_18_57](https://user-images.githubusercontent.com/79381313/173058456-12f2ab60-76eb-4765-af04-4442e9520a65.png)
+
+
+
