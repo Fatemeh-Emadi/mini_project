@@ -11,3 +11,7 @@ doctor login page
 
 ![screencapture-localhost-mini-project-d-login-2022-06-10-16_11_38](https://user-images.githubusercontent.com/79381313/173057459-c9c295af-1940-4ee7-b28e-27c4f34c4344.png)
 
+medical service list
+
+![screencapture-localhost-mini-project-medical-service-2022-06-10-16_14_01](https://user-images.githubusercontent.com/79381313/173057773-afadf89f-97a7-4d94-877e-bbc7b648d2d4.png)
+
