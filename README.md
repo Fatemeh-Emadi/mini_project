@@ -7,3 +7,7 @@ patient login page
 
 ![screencapture-localhost-mini-project-p-login-2022-06-10-16_08_45](https://user-images.githubusercontent.com/79381313/173057157-bc299091-21ab-4ec7-a6c3-9b0dcdd1aa3c.png)
 
+doctor login page
+
+![screencapture-localhost-mini-project-d-login-2022-06-10-16_11_38](https://user-images.githubusercontent.com/79381313/173057459-c9c295af-1940-4ee7-b28e-27c4f34c4344.png)
+
